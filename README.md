@@ -1,3 +1,3 @@
 # Ecommerce
 Ecommere app
-echo "# ECommerceSolution"
+echo "ECommerceSolution"
